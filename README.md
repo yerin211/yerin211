@@ -7,11 +7,6 @@
 
 <div>
   <!--Body-->
-  
-  ## 👀 About Me
-  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <a href="https://github.com/devxb/gitanimals">
   <img
@@ -33,11 +28,6 @@
   <!--CSS-->
   <br/>
   <br/>
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerin211)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin211)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
