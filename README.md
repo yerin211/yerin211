@@ -12,6 +12,9 @@
   #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
   #### :fire: I aim to become a Cloud AI Engineer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
   <br/>
   <br/>
   
