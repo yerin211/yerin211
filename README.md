@@ -4,31 +4,28 @@
   ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Wellcome%20to%20yerin's%20github&fontSize=55)
   
 </div>
-
 <div>
-  <!--Body-->
-  <br/>
-  <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/hbin12212?pet-id=642212583922701813"
-    width="600"
-    height="120"
-  />
-</a>
   <br/>
   
-  ## 🧱 Tech Stack
   ### Language
-  <!--Python-->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <!--CSS-->
-  <br/>
-  <br/>
+  [![My Skills](https://skillicons.dev/icons?i=java,py,r,c,js,css,html&theme=light)](https://skillicons.dev)
+  ### Full Stack & App
+  [![My Skills](https://skillicons.dev/icons?i=flutter,nodejs&theme=light)](https://skillicons.dev)
+  ### Full Stack & App
+  [![My Skills](https://skillicons.dev/icons?i=flutter,nodejs&theme=light)](https://skillicons.dev)
+  ### DataBase
+  [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
   
+  <br/>
+</div> 
+<div>
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yerin211&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yerin211"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
 
 <!--
