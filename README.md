@@ -11,8 +11,8 @@
   [![My Skills](https://skillicons.dev/icons?i=java,py,r,c,js,css,html&theme=light)](https://skillicons.dev)
   ### Full Stack & App
   [![My Skills](https://skillicons.dev/icons?i=flutter,nodejs&theme=light)](https://skillicons.dev)
-  ### Full Stack & App
-  [![My Skills](https://skillicons.dev/icons?i=flutter,nodejs&theme=light)](https://skillicons.dev)
+  ### Tools & Design
+  [![My Skills](https://skillicons.dev/icons?i=vscode,figma,idea,notion,blender&theme=light)](https://skillicons.dev)
   ### DataBase
   [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
   
